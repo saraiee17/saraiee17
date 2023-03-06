@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-My name is Sarai (Sa-da-ee) Escobar and I am a dog enthusiast, rock climber, and nurse turned web developer.
+My name is Sarai (Sa-da-ee) Escobar and I am a dog enthusiast, rock climber, and a dedicated && curious web developer.
 
 
 
