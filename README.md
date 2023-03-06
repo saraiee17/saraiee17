@@ -1,11 +1,10 @@
 ### Welcome Welcome ✨
 
 ----------------------------------------------------------------------------------------------------------------------------------
-<h2 align = 'left'>
 My name is Sarai (Sa-da-ee) Escobar and I am a dog enthusiast, rock climber, and a dedicated,curious fullstack developer.
- </h2>
 
-<img align= 'right' src="https://user-images.githubusercontent.com/104605078/223020940-bfb50526-ce30-4dde-94bc-9a1c880984b7.gif" alt="GIF" width="360px"/>
+
+<img src="https://user-images.githubusercontent.com/104605078/223020940-bfb50526-ce30-4dde-94bc-9a1c880984b7.gif" alt="GIF" width="360px"/>
 
 Current Tech Stack:
 <div>
