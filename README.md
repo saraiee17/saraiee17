@@ -7,6 +7,20 @@
 <img src= "https://user-images.githubusercontent.com/104605078/223218486-22b0ac55-50a6-45b7-b243-f40f89718148.gif" alt = "GIF" width= "340px"/>
 </div>
 
+me.json
+const sarai = {
+  pronouns: "she" | "her",
+  Stack: ["Javascript", "HTML", "CSS", "SCSS", "React", "Node.JS", "express", "Knee", "MySQL", "SQL"],
+  humanLanguages: ["English", "Spanish", "Japanese"],
+  interests: ["dogs", "rock climbing", "science-fiction", "travel"],
+  techCommunities: ["Women who code", "Latinas in tech"],
+  currently: {
+    studying: ["Data structures & Algorithms", "Google UX Design Cert", "Blockchain", "AWS Cloud"],
+    reading: ["The Secret History", "Bitcoins and Blockchains"],
+  },
+};
+
+
 Current Tech Stack:
 
 
