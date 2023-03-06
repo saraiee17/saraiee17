@@ -7,7 +7,7 @@ My name Sarai (Sa-da-ee) Escobar and I am a dog enthusiast,rock climber, and nur
 <!-- [![Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraiee17&theme=gradient)](https://github.com/saraiee17/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraiee17&layout=compact)](https://github.com/saraiee17/github-readme-stats) -->
 
-<a href="https://github-readme-stats.vercel.app/api?username=saraiee17&theme=gradient">
+<a href="https://github-readme-stats.vercel.app/api?username=saraiee17">
   <img align="center" src="https://github.com/saraiee17/github-readme-stats"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiee17&layout=compact">
