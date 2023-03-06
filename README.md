@@ -10,7 +10,7 @@ My name is Sarai (Sa-da-ee) Escobar and I am a dog enthusiast, rock climber, and
 <img  src="https://user-images.githubusercontent.com/104605078/223020940-bfb50526-ce30-4dde-94bc-9a1c880984b7.gif" alt="GIF" width="360px"/>
 
 <div align="center">
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
   
 </div>
