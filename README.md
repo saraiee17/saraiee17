@@ -34,7 +34,10 @@ Current Tech Stack:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraiee17&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/saraiee17/github-readme-stats)
 
 
+
 <details>
 <summary>Click to expand</summary>
-SUPRISE
+  
+<img src="https://user-images.githubusercontent.com/104605078/223216271-6d2e343d-ff84-4296-961e-e2a43702b652.gif" alt="GIF" width="200px"/>
+  
 </details>
