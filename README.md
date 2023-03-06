@@ -35,7 +35,7 @@ Current Tech Stack:
 </div>
 
 
-<div style ='display:flex'>
+<!-- <div style ='display:flex'>
 About Me: 
 
 -:purple_heart: Pronouns : she | her
@@ -43,7 +43,7 @@ About Me:
 -:climbing_woman: Avid rock climber
 -:sushi: Sushi aficionado 
 -:earth_americas: HumanLanguage : English, Spanish, Japanese
-</div>
+</div> -->
 
 [![Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraiee17&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/saraiee17/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraiee17&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/saraiee17/github-readme-stats)
