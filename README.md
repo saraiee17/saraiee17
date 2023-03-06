@@ -13,7 +13,7 @@ Current Tech Stack:
   <table>
 <tbody>
 <td align="center">
-<img width="2000" height="0"><br>
+<img width="1000" height="0"><br>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/>
@@ -24,7 +24,7 @@ Current Tech Stack:
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/axios.svg"/>
-  <img width="2000" height="0">
+  <img width="1000" height="0">
 </td>
 </tbody>
 </table>
