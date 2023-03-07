@@ -50,8 +50,6 @@ const sarai = {
 
 
 
-![carbon](https://user-images.githubusercontent.com/104605078/223474856-38cdfae7-4a95-4cfa-8731-7611a5a58170.png)
-
 
 
 [![Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraiee17&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/saraiee17/github-readme-stats)
