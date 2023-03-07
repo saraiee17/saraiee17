@@ -34,7 +34,7 @@ Current Tech Stack:
 </table>
 </div>
 
-```dracula
+```javascript
 const sarai = { 
   pronouns: "she" || "her", 
   stack: ["Javascript", "HTML", "CSS", "SCSS", "React", "Node.JS", "express", "Knex", "MySQL", "SQL"], 
@@ -46,15 +46,8 @@ const sarai = {
       reading: ["The Secret History", "Bitcoins and Blockchains"]
       } 
  }
-```
-<!-- About Me: 
+```dracula
 
--:purple_heart: Pronouns : she | her
--:dog: Dog enthusiast
--:climbing_woman: Avid rock climber
--:sushi: Sushi aficionado 
--:earth_americas: HumanLanguage : English, Spanish, Japanese
-</div> --> 
 
 [![Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraiee17&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/saraiee17/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraiee17&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/saraiee17/github-readme-stats)
