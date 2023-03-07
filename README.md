@@ -34,8 +34,9 @@ Current Tech Stack:
 </table>
 </div>
 
-
-<!-- <div style ='display:flex'>
+```
+const sarai = { pronouns: "she" | "her", Stack: ["Javascript", "HTML", "CSS", "SCSS", "React", "Node.JS", "express", "Knee", "MySQL", "SQL"], humanLanguages: ["English", "Spanish", "Japanese"], interests: ["dogs", "rock climbing", "science-fiction", "travel"], techCommunities: ["Women who code", "Latinas in tech"], currently: { studying: ["Data structures & Algorithms", "Google UX Design Cert", "Blockchain", "AWS Cloud"], reading: ["The Secret History", "Bitcoins and Blockchains"], }, };<!-- <div style ='display:flex'>
+```
 About Me: 
 
 -:purple_heart: Pronouns : she | her
