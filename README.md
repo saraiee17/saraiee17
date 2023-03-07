@@ -34,7 +34,7 @@ Current Tech Stack:
 </table>
 </div>
 
-```javascript Synthwave
+```javascript 
 const sarai = { 
   pronouns: "she" || "her", 
   stack: ["Javascript", "HTML", "CSS", "SCSS", "React", "Node.JS", "express", "Knex", "MySQL", "SQL"], 
@@ -48,8 +48,20 @@ const sarai = {
  }
 ```
 
-
-
+```Synthwave
+- const sarai = {
++ const sarai = {
+    pronouns: "she" || "her", 
+    stack: ["Javascript", "HTML", "CSS", "SCSS", "React", "Node.JS", "express", "Knex", "MySQL", "SQL"], 
+    humanLanguages: ["English", "Spanish", "Japanese"], 
+    interests: ["dogs", "rock climbing", "science-fiction", "travel"], 
+    techCommunities: ["Women who code", "Latinas in tech"], 
+    currently: { 
+        studying: ["Data structures & Algorithms", "Google UX Design Cert", "Blockchain"], 
+        reading: ["The Secret History", "Bitcoins and Blockchains"]
+    } 
+}
+```
 
 
 
