@@ -48,7 +48,7 @@ const sarai = {
  }
 ```
 
-```Synthwave
+```synthwave
 - const sarai = {
 + const sarai = {
     pronouns: "she" || "her", 
