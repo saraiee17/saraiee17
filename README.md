@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 <div style="display: flex;">
-<p >My name is Sarai (Sa-da-ee) Escobar and I am a dog enthusiast, rock climber, and  dedicated,curious fullstack developer.</p>
+<p >My name is Sarai (Sa-da-ee) Escobar and I am a dog enthusiast, sushi aficionado, and  dedicated,curious fullstack developer.</p>
 <!-- <img  src="https://user-images.githubusercontent.com/104605078/223020940-bfb50526-ce30-4dde-94bc-9a1c880984b7.gif" alt="GIF" width="340px"/> -->
 <img src= "https://user-images.githubusercontent.com/104605078/223218486-22b0ac55-50a6-45b7-b243-f40f89718148.gif" alt = "GIF" width= "340px"/>
 </div>
