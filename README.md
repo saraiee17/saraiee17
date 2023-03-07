@@ -49,9 +49,6 @@ const sarai = {
 ```
 
 
-
-![carbon (2)](https://user-images.githubusercontent.com/104605078/223475940-89e6cd99-494e-4655-9c9c-000d58d7f0bb.png)
-
 <img width="883" alt="Screen Shot 2023-03-07 at 9 57 04 AM" src="https://user-images.githubusercontent.com/104605078/223476621-cc3987d7-2627-414b-97c9-99f21235c75b.png">
 
 
