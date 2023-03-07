@@ -52,7 +52,8 @@ const sarai = {
 
 ![carbon (2)](https://user-images.githubusercontent.com/104605078/223475940-89e6cd99-494e-4655-9c9c-000d58d7f0bb.png)
 
-![carbon (2)](https://user-images.githubusercontent.com/104605078/223476513-6ae3c88b-b796-46b7-b003-da2536c5f447.png)
+<img width="883" alt="Screen Shot 2023-03-07 at 9 57 04 AM" src="https://user-images.githubusercontent.com/104605078/223476621-cc3987d7-2627-414b-97c9-99f21235c75b.png">
+
 
 
 [![Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraiee17&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/saraiee17/github-readme-stats)
