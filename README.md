@@ -40,7 +40,7 @@ const sarai = {
   stack: ["Javascript", "HTML", "CSS", "SCSS", "React", "Node.JS", "express", "Knex", "MySQL", "SQL"], 
   humanLanguages: ["English", "Spanish", "Japanese"], 
   interests: ["dogs", "rock climbing", "science-fiction", "travel"], 
-  techCommunities: ["Women who code", "Latinas in tech"], 
+  techCommunities: ["Women Who Code", "Latinas in Tech"], 
   currently: { 
       studying: ["Data structures & Algorithms", "Google UX Design Cert", "Blockchain"], 
       reading: ["The Secret History", "Bitcoins and Blockchains"]
