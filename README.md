@@ -34,7 +34,7 @@ Current Tech Stack:
 </table>
 </div>
 
-```javascript dracula
+```javascript panda
 const sarai = { 
   pronouns: "she" || "her", 
   stack: ["Javascript", "HTML", "CSS", "SCSS", "React", "Node.JS", "express", "Knex", "MySQL", "SQL"], 
