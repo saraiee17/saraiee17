@@ -46,9 +46,7 @@ const sarai = {
       reading: ["The Secret History", "Bitcoins and Blockchains"]
       } 
  }
-```synthwave
-
-
+```
 
 
 
