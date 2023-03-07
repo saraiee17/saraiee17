@@ -45,7 +45,7 @@ const sarai = {
       studying: ["Data structures & Algorithms", "Google UX Design Cert", "Blockchain"], 
       reading: ["The Secret History", "Bitcoins and Blockchains"], 
       } 
- };
+ }
 ```
 <!-- About Me: 
 
