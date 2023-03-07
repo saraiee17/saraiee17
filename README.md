@@ -46,7 +46,7 @@ const sarai = {
       reading: ["The Secret History", "Bitcoins and Blockchains"]
       } 
  }
-```
+```synthwave
 
 
 [![Sarai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraiee17&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/saraiee17/github-readme-stats)
