@@ -48,8 +48,9 @@ const sarai = {
  }
 ```
 
-![carbon (1)](https://user-images.githubusercontent.com/104605078/223475814-038dc133-061a-475d-80c2-04e0be4e592e.png)
 
+
+![carbon (2)](https://user-images.githubusercontent.com/104605078/223475940-89e6cd99-494e-4655-9c9c-000d58d7f0bb.png)
 
 
 
