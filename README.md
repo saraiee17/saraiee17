@@ -49,7 +49,7 @@ const sarai = {
 ```
 
 
-<img width="883" alt="Screen Shot 2023-03-07 at 9 57 04 AM" src="https://user-images.githubusercontent.com/104605078/223476621-cc3987d7-2627-414b-97c9-99f21235c75b.png">
+<img max-width="100%" alt="Screen Shot 2023-03-07 at 9 57 04 AM" src="https://user-images.githubusercontent.com/104605078/223476621-cc3987d7-2627-414b-97c9-99f21235c75b.png">
 
 
 
