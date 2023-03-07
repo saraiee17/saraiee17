@@ -43,7 +43,7 @@ const sarai = {
   techCommunities: ["Women who code", "Latinas in tech"], 
   currently: { 
       studying: ["Data structures & Algorithms", "Google UX Design Cert", "Blockchain"], 
-      reading: ["The Secret History", "Bitcoins and Blockchains"], 
+      reading: ["The Secret History", "Bitcoins and Blockchains"]
       } 
  }
 ```
