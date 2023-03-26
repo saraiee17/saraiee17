@@ -35,9 +35,8 @@ Current Tech Stack:
 </div>
 
 ```javascript 
-const sarai = { 
+let sarai = { 
   pronouns: "she" || "her", 
-  stack: ["Javascript", "HTML", "CSS", "SCSS", "React", "Node.JS", "express", "Knex", "MySQL", "SQL"], 
   humanLanguages: ["English", "Spanish", "Japanese"], 
   interests: ["dogs", "rock climbing", "science-fiction", "travel"], 
   techCommunities: ["Women Who Code", "Latinas in Tech","Elpha"], 
