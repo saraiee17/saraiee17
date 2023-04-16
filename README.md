@@ -42,7 +42,7 @@ let sarai = {
   techCommunities: ["Women Who Code", "Latinas in Tech","Elpha"], 
   currently: { 
       studying: ["Data structures & Algorithms", "Google UX Design Cert", "Blockchain"], 
-      reading: ["The Secret History", "Bitcoins and Blockchains"]
+      reading: ["Mexican Gothic", "The Design of Everyday Things"]
       } 
  }
 ```
