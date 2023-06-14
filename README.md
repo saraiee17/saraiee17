@@ -41,8 +41,8 @@ let sarai = {
   interests: ["dogs", "rock climbing", "science-fiction", "travel"], 
   techCommunities: ["Women Who Code", "Latinas in Tech","Elpha"], 
   currently: { 
-      studying: ["Data structures & Algorithms", "Google UX Design Cert", "Blockchain"], 
-      reading: ["Mexican Gothic", "The Design of Everyday Things"]
+      studying: ["Data structures & Algorithms", "Google UX Design Cert"], 
+      reading: ["The Midnight Library", "The Culture Map", "The Design of Everyday Things"]
       } 
  }
 ```
