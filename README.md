@@ -48,14 +48,13 @@ let sarai = {
   pronouns: "she" || "her", 
   humanLanguages: ["English", "Spanish", "Japanese"], 
   interests: ["dogs", "rock climbing", "science-fiction", "travel"], 
-  techCommunities: ["Women Who Code", "Latinas in Tech", "Elpha", "Google Apprentice Alumni], 
+  techCommunities: ["Women Who Code", "Latinas in Tech", "Elpha", "Google Apprentice Alumni"], 
   currently: { 
       studying: ["Data structures & Algorithms", "System Design", "UX best practices"], 
       reading: ["The Way of Kings", "System Design Interview", "100 Things Every Designer Needs to Know about People"]
       } 
  }
 ```
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraiee17&layout=compact&theme=cobalt)
 
