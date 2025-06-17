@@ -51,7 +51,7 @@ let sarai = {
   techCommunities: ["Women Who Code", "Latinas in Tech", "Elpha", "Google Apprentice Alumni], 
   currently: { 
       studying: ["Data structures & Algorithms", "System Design", "UX best practices"], 
-      reading: ["The Way of Kings", "System Design Interview", "100 Things Ever Designer Needs to Know about People"]
+      reading: ["The Way of Kings", "System Design Interview", "100 Things Every Designer Needs to Know about People"]
       } 
  }
 ```
