@@ -1,11 +1,17 @@
-### Welcome Welcome ✨
-
+### Hi there, I'm Sarai 👋
+### ✨ Software Engineer | UX-Focused | Curious, Collaborative, and Creative Problem Solver✨
 ----------------------------------------------------------------------------------------------------------------------------------
-<div style="display: flex;">
-<p >My name is Sarai (Sa-da-ee) Escobar and I am a dog enthusiast and dedicated,curious fullstack developer.</p>
+
+I'm Sarai (pronounced Sa-da-ee), a full-stack software engineer and dog enthusiast based in Chicago . I’m passionate about building thoughtful, intuitive products that bridge design and engineering. With a background in healthcare and experience across multiple tech stacks, I bring empathy, adaptability, and a human-centered mindset to everything I create.
+
+
+- **Software Engineer Graduate** from **Google**
+- Prev **Frontend Engineer** at **Avant**
+- Background in Healthcare with **B.S** in **Psychology & Nursing**
+  
 <!-- <img  src="https://user-images.githubusercontent.com/104605078/223020940-bfb50526-ce30-4dde-94bc-9a1c880984b7.gif" alt="GIF" width="340px"/> -->
 <img src= "https://user-images.githubusercontent.com/104605078/223218486-22b0ac55-50a6-45b7-b243-f40f89718148.gif" alt = "GIF" width= "340px"/>
-</div>
+
 
 
 
