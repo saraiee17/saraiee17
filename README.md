@@ -56,7 +56,7 @@ let sarai = {
   interests: ["dogs", "rock climbing", "science-fiction", "travel"], 
   techCommunities: ["Women Who Code", "Latinas in Tech", "Elpha", "Google Apprentice Alumni"], 
   currently: { 
-      studying: ["Data structures & Algorithms", "System Design", "UX best practices"], 
+      studying: ["Data structures & Algorithms", "HL7 FHIR", "System Design", "UX best practices"], 
       reading: ["The Way of Kings", "System Design Interview", "100 Things Every Designer Needs to Know about People"]
       } 
  }
